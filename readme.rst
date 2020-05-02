@@ -2,10 +2,10 @@
 Tugas UTS PWL 2020
 ###################
 
-Nama : Anas Wahyuning Widhi
-Nim  : 181240000769
-Kelas: TIF R2
-SMT  : 4
+- Nama : Anas Wahyuning Widhi
+- Nim  : 181240000769
+- Kelas: TIF R2
+- SMT  : 4
 
 ###################
 Cara Penggunaan <>
